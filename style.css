@@ -1,9 +1,10 @@
-.app_hearder {
-    background-color: aqua;
-    height: 80px ;
-    }
+p {
+    ;
+}
 
 .app-main {
   border: 3px solid black ;
-  margin: 20px; 
+  margin: 20px;
+  padding: 15px;
+
 } 
